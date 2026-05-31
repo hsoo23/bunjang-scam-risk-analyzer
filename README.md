@@ -12,4 +12,5 @@
 [필요 파일]
 - link_analyzer.py
 - market_price.py
+- 
 (두 파일이 같은 폴더에 존재해야 합니다.)
